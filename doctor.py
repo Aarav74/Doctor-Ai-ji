@@ -140,3 +140,4 @@ if __name__ == "__main__":
         favicon_path=None,  # Prevent favicon 404s
         ssl_verify=False    # For local development
     )
+    
