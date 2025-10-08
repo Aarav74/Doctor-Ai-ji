@@ -24,7 +24,7 @@ A Gradio-based AI tool for medical image classification and disease text analysi
 
 ### Local Installation
 ```bash
-git clone https://github.com/yourusername/medical-ai.git
-cd medical-ai
+git clone https://github.com/Aarav74/doctor-ai-ji.git
+cd doctor-ai-ji
 pip install -r requirements.txt
-python doctor.py
+python app.py
